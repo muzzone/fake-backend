@@ -1,0 +1,105 @@
+{
+  "doctors": [
+    {
+      "avatar": "layer_1329.jpg",
+      "id": "1",
+      "name": "Dr. Guillem López Burguete",
+      "position": "Dentista (Oclusión, Ortodoncia, Ortodoncia Invisible)",
+      "reviews": 60,
+      "location": "C/ Freixa 30, Barcelona 08021, Barcelona",
+      "coords": {
+        "lat": 51.64842,
+        "lng": 7.819007
+      },
+      "checked": true
+    },
+    {
+      "avatar": "layer_1329.jpg",
+      "id": "2",
+      "name": "Dr. Guillem López Burguete",
+      "position": "Dentista (Oclusión, Ortodoncia, Ortodoncia Invisible)",
+      "reviews": 60,
+      "location": "C/ Freixa 30, Barcelona 08021, Barcelona",
+      "coords": {
+        "lat": 51.65852,
+        "lng": 7.809107
+      },
+      "checked": true
+    },
+    {
+      "avatar": "layer_1329.jpg",
+      "id": "3",
+      "name": "Dr. Guillem López Burguete",
+      "position": "Dentista (Oclusión, Ortodoncia, Ortodoncia Invisible)",
+      "reviews": 60,
+      "location": "C/ Freixa 30, Barcelona 08021, Barcelona",
+      "coords": {
+        "lat": 51.668617,
+        "lng": 7.809207
+      },
+      "checked": true
+    },
+    {
+      "avatar": "layer_1329.jpg",
+      "id": "4",
+      "name": "Dr. Guillem López Burguete",
+      "position": "Dentista (Oclusión, Ortodoncia, Ortodoncia Invisible)",
+      "reviews": 60,
+      "location": "C/ Freixa 30, Barcelona 08021, Barcelona",
+      "coords": {
+        "lat": 51.67872,
+        "lng": 7.819207
+      },
+      "checked": true
+    },
+    {
+      "avatar": "layer_1329.jpg",
+      "id": "5",
+      "name": "Dr. Guillem López Burguete",
+      "position": "Dentista (Oclusión, Ortodoncia, Ortodoncia Invisible)",
+      "reviews": 60,
+      "location": "C/ Freixa 30, Barcelona 08021, Barcelona",
+      "coords": {
+        "lat": 51.698418,
+        "lng": 7.829007
+      },
+      "checked": true
+    },
+    {
+      "avatar": "layer_1329.jpg",
+      "id": "6",
+      "name": "Dr. Guillem López Burguete",
+      "position": "Dentista (Oclusión, Ortodoncia, Ortodoncia Invisible)",
+      "reviews": 60,
+      "location": "C/ Freixa 30, Barcelona 08021, Barcelona",
+      "checked": true
+    },
+    {
+      "avatar": "layer_1329.jpg",
+      "id": "7",
+      "name": "Dr. Guillem López Burguete",
+      "position": "Dentista (Oclusión, Ortodoncia, Ortodoncia Invisible)",
+      "reviews": 60,
+      "location": "C/ Freixa 30, Barcelona 08021, Barcelona",
+      "checked": true
+    },
+    {
+      "avatar": "layer_1329.jpg",
+      "id": "8",
+      "name": "Dr. Guillem López Burguete",
+      "position": "Dentista (Oclusión, Ortodoncia, Ortodoncia Invisible)",
+      "reviews": 60,
+      "location": "C/ Freixa 30, Barcelona 08021, Barcelona",
+      "checked": true
+    },
+    {
+      "avatar": "layer_1329.jpg",
+      "id": "9",
+      "name": "Dr. Guillem López Burguete",
+      "position": "Dentista (Oclusión, Ortodoncia, Ortodoncia Invisible)",
+      "reviews": 60,
+      "location": "C/ Freixa 30, Barcelona 08021, Barcelona",
+      "checked": true
+    }
+  ]
+}
