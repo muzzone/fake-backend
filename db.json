@@ -1,4 +1,12 @@
 {
+  "signup": [
+    {
+      "id": "1",
+      "name": "Dr. Guillem López Burguete",
+      "email": "email@example.com",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9"
+    }
+  ],
   "users": [
     {
       "id": "1",
